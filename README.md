@@ -2,9 +2,19 @@
 
 blabla
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Zoreph#0563) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-gili-03975b1a4)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Zoreph#0563) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-gili-03975b1a4)
 
 ## My repos:
+To make it easier to navigate, my repos are [listed by category](https://github.com/Zoreph22?tab=stars):
+
+<div align="center">
+
+  [🌐 Web Development](https://github.com/stars/Zoreph22/lists/my-repos-web-projects) ·
+  [💻 Software Development](https://github.com/stars/Zoreph22/lists/my-repos-game-projects) ·
+  [🎮 Game Development](https://github.com/stars/Zoreph22/lists/my-repos-software-projects) ·
+  
+</div>
 
 ## Tech Stack:
 
