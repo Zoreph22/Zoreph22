@@ -12,7 +12,7 @@ To make it easier to navigate, my repos are [listed by category](https://github.
 
   [🌐 Web Development](https://github.com/stars/Zoreph22/lists/my-repos-web-projects) ·
   [💻 Software Development](https://github.com/stars/Zoreph22/lists/my-repos-game-projects) ·
-  [🎮 Game Development](https://github.com/stars/Zoreph22/lists/my-repos-software-projects) ·
+  [🎮 Game Development](https://github.com/stars/Zoreph22/lists/my-repos-software-projects)
   
 </div>
 
