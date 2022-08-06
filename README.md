@@ -2,7 +2,7 @@
 
 blabla
 
-Discord: Zoreph#0563
+[![Discord](https://img.shields.io/badge/Zoreph#0563-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zoreph#0563)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-gili-03975b1a4)
 
 ## My repos:
