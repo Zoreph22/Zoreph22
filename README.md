@@ -1,4 +1,4 @@
-![Header](./github-bannr.svg)
+![Header](./github-banner.svg)
 
 I'm a fullstack web developer with a Bachelor of Computer Science. I love programming, 3D modeling and UI UX designs.
 
