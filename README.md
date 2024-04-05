@@ -3,8 +3,8 @@
 I'm a full-stack web developer with a Bachelor of Computer Science. I love programming, 3D modeling, and UI/UX design.
 
 ⚡My mindset:
-- [x] I enjoy creative projects
-- [x] Passionate to produce great quality projects.
+- [x] Enjoy creative projects
+- [x] Passionate to produce great quality projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-gili-03975b1a4)
 
