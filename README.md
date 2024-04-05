@@ -1,6 +1,6 @@
 ![Header](./github-banner.svg)
 
-I'm a fullstack web developer with a Bachelor of Computer Science. I love programming, 3D modeling and UI UX designs.
+I'm a full-stack web developer with a Bachelor of Computer Science. I love programming, 3D modeling, and UI/UX design.
 
 ⚡My mindset:
 - [x] I enjoy creative projects
