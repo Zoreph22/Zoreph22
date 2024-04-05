@@ -6,8 +6,6 @@ I'm a fullstack web developer with a Bachelor of Computer Science. I love progra
 - [x] I enjoy creative projects
 - [x] Passionate to produce great quality projects.
 
-
-![Discord](https://img.shields.io/badge/Zoreph%230563-%237289DA.svg?logo=discord&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clément-gili-03975b1a4)
 
 ## My repos:
